@@ -1,0 +1,11 @@
+:root {
+  /* fonts */
+  --font-fira-code: "Fira Code";
+
+  /* font sizes */
+  --font-size-base: 32px;
+
+  /* Colors */
+  --color-gray-100: #e5e9f0;
+  --color-gray-200: #607b96;
+}
